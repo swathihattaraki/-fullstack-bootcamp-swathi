@@ -152,6 +152,9 @@ Store configuration values in environment variables. Never commit passwords, API
 
 This is an initial learning repository. Practical examples and documentation will be added throughout the bootcamp.
 
+## Project Status
+This project is maintained on the main branch.
+
 
 
 \## Author
