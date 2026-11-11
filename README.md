@@ -152,14 +152,18 @@ Store configuration values in environment variables. Never commit passwords, API
 
 This is an initial learning repository. Practical examples and documentation will be added throughout the bootcamp.
 
+
+=======
 ## Day 1 Progress
 - Completed Git and GitHub setup.
 - Created feature branch.
 - Added architecture diagram.
 - Documented HTTP methods and status codes.
+>>>>>>> feature/day1-documentation
 
 ## Project Status
-This project is maintained on the feature branch.
+
+This project includes contributions from both the main and feature branches.
 
 ## Git Workflow Practice
 - Created a repository.
