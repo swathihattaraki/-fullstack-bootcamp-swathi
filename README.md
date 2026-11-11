@@ -158,6 +158,8 @@ This is an initial learning repository. Practical examples and documentation wil
 - Added architecture diagram.
 - Documented HTTP methods and status codes.
 
+## Project Status
+This project is maintained on the feature branch.
 
 \## Author
 
