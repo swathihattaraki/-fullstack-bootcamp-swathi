@@ -161,6 +161,12 @@ This is an initial learning repository. Practical examples and documentation wil
 ## Project Status
 This project is maintained on the feature branch.
 
+## Git Workflow Practice
+- Created a repository.
+- Practised branching and commits.
+- Resolved an intentional merge conflict.
+- Practised Pull Request workflow.
+
 \## Author
 
 Swathi Hattaraki
