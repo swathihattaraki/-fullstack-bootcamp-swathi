@@ -162,7 +162,15 @@ This is an initial learning repository. Practical examples and documentation wil
 >>>>>>> feature/day1-documentation
 
 ## Project Status
+
 This project includes contributions from both the main and feature branches.
+
+## Git Workflow Practice
+- Created a repository.
+- Practised branching and commits.
+- Resolved an intentional merge conflict.
+- Practised Pull Request workflow.
+
 \## Author
 
 Swathi Hattaraki
