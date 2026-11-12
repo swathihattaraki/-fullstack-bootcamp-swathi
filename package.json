@@ -1,0 +1,26 @@
+
+{
+  "name": "fullstack-bootcamp-swathi",
+  "version": "1.0.0",
+  "description": "Full Stack Engineering Bootcamp - TypeScript Employee Utility",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "npm run build && node dist/test.js",
+    "typecheck": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swathihattaraki/-fullstack-bootcamp-swathi.git"
+  },
+  "keywords": [],
+  "author": "Swathi Hattaraki",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
